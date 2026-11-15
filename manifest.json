@@ -1,0 +1,59 @@
+{
+  "version": "1.72.1",
+  "files": [
+    {
+      "path": "mods/svotactical-1.72.1.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.72.1.jar",
+      "sha256": "5c337335fe78722696cdca56725d19bb2dbea476a982eea3059c09c9eee8eecf"
+    },
+    {
+      "path": "tacz/svo_ss.zip",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svo_ss.zip",
+      "sha256": "8b469ad7b32281c42a314a49aeb06de077b8ce1fdf9574b1fd18b17f7fd580f9"
+    }
+  ],
+  "delete": [
+    "mods/svotactical-1.46.0.jar",
+    "mods/svotactical-1.47.0.jar",
+    "mods/svotactical-1.48.0.jar",
+    "mods/svotactical-1.49.0.jar",
+    "mods/svotactical-1.50.0.jar",
+    "mods/svotactical-1.50.1.jar",
+    "mods/svotactical-1.51.0.jar",
+    "mods/svotactical-1.52.0.jar",
+    "mods/svotactical-1.53.0.jar",
+    "mods/svotactical-1.54.0.jar",
+    "mods/svotactical-1.55.0.jar",
+    "mods/svotactical-1.56.0.jar",
+    "mods/svotactical-1.57.0.jar",
+    "mods/svotactical-1.58.0.jar",
+    "mods/svotactical-1.58.1.jar",
+    "mods/svotactical-1.58.2.jar",
+    "mods/svotactical-1.59.0.jar",
+    "mods/svotactical-1.60.0.jar",
+    "mods/svotactical-1.61.0.jar",
+    "mods/svotactical-1.62.0.jar",
+    "mods/svotactical-1.63.0.jar",
+    "mods/svotactical-1.64.0.jar",
+    "mods/svotactical-1.65.0.jar",
+    "mods/svotactical-1.66.0.jar",
+    "mods/svotactical-1.67.0.jar",
+    "mods/svotactical-1.68.0.jar",
+    "mods/svotactical-1.68.1.jar",
+    "mods/svotactical-1.69.0.jar",
+    "mods/svotactical-1.69.1.jar",
+    "mods/svotactical-1.69.2.jar",
+    "mods/svotactical-1.70.0.jar",
+    "mods/svotactical-1.70.1.jar",
+    "mods/svotactical-1.70.2.jar",
+    "mods/svotactical-1.70.3.jar",
+    "mods/svotactical-1.71.0.jar",
+    "mods/svotactical-1.71.1.jar",
+    "mods/svotactical-1.72.0.jar",
+    "mods/svohider-1.1.0.jar",
+    "mods/entityculling-forge-1.11.2-mc1.20.1.jar",
+    "mods/chloride-FORGE-mc1.20.1-v1.8.1.jar",
+    "mods/Terralith_1.20.x_v2.5.4.jar",
+    "mods/tectonic-3.0.17-forge-1.20.1.jar"
+  ]
+}
