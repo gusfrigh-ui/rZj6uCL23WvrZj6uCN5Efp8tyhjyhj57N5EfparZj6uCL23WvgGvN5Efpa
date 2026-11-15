@@ -1,15 +1,15 @@
 {
-  "version": "1.73.0",
+  "version": "1.75.0",
   "files": [
     {
-      "path": "mods/svotactical-1.73.0.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.73.0.jar",
-      "sha256": "9ee16e364afd59bc851e374788d42290b0803875da22d7ebd1e9ff7ae81914b3"
+      "path": "mods/svotactical-1.75.0.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.75.0.jar",
+      "sha256": "8ef4facb3abb8032cc9b8deeaad0ffa987c4707f09c6329aa0f7b3bb7a4a9a6f"
     },
     {
       "path": "tacz/svo_ss.zip",
       "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svo_ss.zip",
-      "sha256": "8b469ad7b32281c42a314a49aeb06de077b8ce1fdf9574b1fd18b17f7fd580f9"
+      "sha256": "14d56d7c1bebafdb29bc80054895bcd57adf72c391779185978299e249fc42bc"
     }
   ],
   "delete": [
@@ -51,6 +51,8 @@
     "mods/svotactical-1.71.1.jar",
     "mods/svotactical-1.72.0.jar",
     "mods/svotactical-1.72.1.jar",
+    "mods/svotactical-1.73.0.jar",
+    "mods/svotactical-1.74.0.jar",
     "mods/svohider-1.1.0.jar",
     "mods/entityculling-forge-1.11.2-mc1.20.1.jar",
     "mods/chloride-FORGE-mc1.20.1-v1.8.1.jar",
