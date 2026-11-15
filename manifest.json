@@ -1,10 +1,10 @@
 {
-  "version": "1.75.0",
+  "version": "1.77.0",
   "files": [
     {
-      "path": "mods/svotactical-1.75.0.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.75.0.jar",
-      "sha256": "8ef4facb3abb8032cc9b8deeaad0ffa987c4707f09c6329aa0f7b3bb7a4a9a6f"
+      "path": "mods/svotactical-1.77.0.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.77.0.jar",
+      "sha256": "3fbaa97a4fd49b1c5b855b936b64d32a59372e7f27f1f773dbc365c713f6400d"
     },
     {
       "path": "tacz/svo_ss.zip",
@@ -53,6 +53,8 @@
     "mods/svotactical-1.72.1.jar",
     "mods/svotactical-1.73.0.jar",
     "mods/svotactical-1.74.0.jar",
+    "mods/svotactical-1.75.0.jar",
+    "mods/svotactical-1.76.0.jar",
     "mods/svohider-1.1.0.jar",
     "mods/entityculling-forge-1.11.2-mc1.20.1.jar",
     "mods/chloride-FORGE-mc1.20.1-v1.8.1.jar",
