@@ -1,15 +1,20 @@
 {
-  "version": "1.77.0",
+  "version": "1.77.1",
   "files": [
     {
-      "path": "mods/svotactical-1.77.0.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.77.0.jar",
-      "sha256": "3fbaa97a4fd49b1c5b855b936b64d32a59372e7f27f1f773dbc365c713f6400d"
+      "path": "mods/svotactical-1.77.1.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.77.1.jar",
+      "sha256": "9ae994de0e1cee0dcd94a403ac30097b33e4b1992ec1c906d82bcfb0905e7f2e"
     },
     {
       "path": "tacz/svo_ss.zip",
       "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svo_ss.zip",
       "sha256": "a7dfefbc9b07ac7bfda6c11f2c7ab33d03b418d3fe45fbfff3ba9ea82d8feb5b"
+    },
+    {
+      "path": "tacz/mw19_guns_addon_v200.zip",
+      "url": "https://edge.forgecdn.net/files/6505/302/mw19_guns_addon_v200.zip",
+      "sha256": "08bdefb28cbf85002809d0436bc2168eb42bbba534959cec05f20b4286719b0f"
     }
   ],
   "delete": [
@@ -55,6 +60,7 @@
     "mods/svotactical-1.74.0.jar",
     "mods/svotactical-1.75.0.jar",
     "mods/svotactical-1.76.0.jar",
+    "mods/svotactical-1.77.0.jar",
     "mods/svohider-1.1.0.jar",
     "mods/entityculling-forge-1.11.2-mc1.20.1.jar",
     "mods/chloride-FORGE-mc1.20.1-v1.8.1.jar",
