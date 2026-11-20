@@ -1,10 +1,10 @@
 {
-  "version": "1.82.1",
+  "version": "1.83.1",
   "files": [
     {
-      "path": "mods/svotactical-1.82.1.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.82.1.jar",
-      "sha256": "d118c7fae4cbe588e4b0198209c5ebc7061d05ea1f1f4772cd4030a701b4a5d7"
+      "path": "mods/svotactical-1.83.1.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.83.1.jar",
+      "sha256": "b81d84f0e8681135211eb3ff7cd074e60dfd38201af09e7bcfef55aafcd650ad"
     },
     {
       "path": "tacz/svo_ss.zip",
@@ -74,6 +74,9 @@
     "mods/tectonic-3.0.17-forge-1.20.1.jar",
     "mods/svotactical-1.81.0.jar",
     "mods/svotactical-1.81.1.jar",
-    "mods/svotactical-1.82.0.jar"
+    "mods/svotactical-1.82.0.jar",
+    "mods/svotactical-1.82.1.jar",
+    "mods/svotactical-1.82.2.jar",
+    "mods/svotactical-1.83.0.jar"
   ]
 }
