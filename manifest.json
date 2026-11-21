@@ -1,10 +1,10 @@
 {
-  "version": "1.86.0",
+  "version": "1.86.1",
   "files": [
     {
-      "path": "mods/svotactical-1.86.0.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.86.0.jar",
-      "sha256": "5ae571748ffcd3d1568f0151a3f563d1e873b4b2587ad72adafd8f83837393f7"
+      "path": "mods/svotactical-1.86.1.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.86.1.jar",
+      "sha256": "75417b5e37785169ded6ded8306924e5696565a5408a3173c57e5fab333da866"
     },
     {
       "path": "tacz/svo_ss.zip",
@@ -91,6 +91,7 @@
     "mods/svotactical-1.84.0.jar",
     "mods/svotactical-1.84.1.jar",
     "mods/svotactical-1.85.0.jar",
-    "mods/svotactical-1.85.1.jar"
+    "mods/svotactical-1.85.1.jar",
+    "mods/svotactical-1.86.0.jar"
   ]
 }
