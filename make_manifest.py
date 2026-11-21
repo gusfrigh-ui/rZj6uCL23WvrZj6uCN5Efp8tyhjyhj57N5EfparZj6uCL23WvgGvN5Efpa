@@ -42,6 +42,8 @@ manifest = {
         {'path': 'mods/' + name, 'url': raw + name, 'sha256': sha(os.path.join(here, name))},
         {'path': 'tacz/svo_ss.zip', 'url': raw + 'svo_ss.zip', 'sha256': sha(zpath)},
         # сторонний пак качается с CurseForge напрямую, в репозиторий не кладётся
+        # ресурспак стёкол для русских деревень (CurseForge, оригинальная ссылка; включает его мод — PackAutoEnable)
+        {'path': 'resourcepacks/BSG - Medieval - 1.20.zip', 'url': 'https://mediafilez.forgecdn.net/files/4779/199/BSG%20-%20Medieval%20-%201.20.zip', 'sha256': sha('D:/C-perenos/PrismLauncher/instances/1.20.1/minecraft/resourcepacks/BSG - Medieval - 1.20.zip')},
         {'path': 'tacz/mw19_guns_addon_v200.zip', 'url': 'https://edge.forgecdn.net/files/6505/302/mw19_guns_addon_v200.zip', 'sha256': sha('D:/C-perenos/PrismLauncher/instances/1.20.1/minecraft/tacz/mw19_guns_addon_v200.zip')},
     ],
     'delete': delete,

@@ -1,15 +1,20 @@
 {
-  "version": "1.85.0",
+  "version": "1.85.1",
   "files": [
     {
-      "path": "mods/svotactical-1.85.0.jar",
-      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.85.0.jar",
-      "sha256": "89a04d60daadab4f443ed3f3c0c449a3fb7a7891d00a5192a8dad550b1b5b302"
+      "path": "mods/svotactical-1.85.1.jar",
+      "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svotactical-1.85.1.jar",
+      "sha256": "ddf8cd78017087a5473b9cf46f70eb4b9ad5478e1fc69c78c6ed14f4d3c2112e"
     },
     {
       "path": "tacz/svo_ss.zip",
       "url": "https://raw.githubusercontent.com/gusfrigh-ui/rZj6uCL23WvrZj6uCN5Efp8tyhjyhj57N5EfparZj6uCL23WvgGvN5Efpa/main/svo_ss.zip",
       "sha256": "d2453473abded121ade0a32afe92637524a0895e7ff5f8d2cb4ef4602a65ee41"
+    },
+    {
+      "path": "resourcepacks/BSG - Medieval - 1.20.zip",
+      "url": "https://mediafilez.forgecdn.net/files/4779/199/BSG%20-%20Medieval%20-%201.20.zip",
+      "sha256": "479fb7164ae577b1df220ddb7c9eb8c99abc32d06a6e4f1e39cc1d6a12e3be78"
     },
     {
       "path": "tacz/mw19_guns_addon_v200.zip",
@@ -84,6 +89,7 @@
     "mods/svotactical-1.83.4.jar",
     "mods/svotactical-1.83.5.jar",
     "mods/svotactical-1.84.0.jar",
-    "mods/svotactical-1.84.1.jar"
+    "mods/svotactical-1.84.1.jar",
+    "mods/svotactical-1.85.0.jar"
   ]
 }
